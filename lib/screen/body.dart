@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:shop_app/constants.dart';
 import 'package:shop_app/model/product.dart';
+import 'package:shop_app/screen/details_screen/detail_screen.dart';
 import 'package:shop_app/screen/home_screen/component/card_item.dart';
 import 'package:shop_app/screen/home_screen/component/categrios.dart';
-import 'package:shop_app/screen/details_screen/detail_screen.dart';
 
 class Body extends StatelessWidget {
   @override

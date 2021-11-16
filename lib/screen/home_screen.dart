@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shop_app/constants.dart';
-import 'package:shop_app/screen/body.dart';
+import 'package:shop_app/screen/home_screen/component/body.dart';
 
 class Homepage extends StatelessWidget {
   @override
